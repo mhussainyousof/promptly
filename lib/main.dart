@@ -19,7 +19,6 @@ void main() async {
     ),
   );
 }
-
 //! main page
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
