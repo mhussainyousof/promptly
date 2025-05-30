@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "944959862421",
+    "project_id": "promptly-4e16d",
+    "storage_bucket": "promptly-4e16d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944959862421:android:bceb428584e3873c354d9c",
+        "android_client_info": {
+          "package_name": "com.example.promptly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944959862421-n5tb5jplfh0j0ark69rjrlhv11lefvf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATbymq93su1X6Faq052-KTxIklI5qNQxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944959862421-n5tb5jplfh0j0ark69rjrlhv11lefvf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
